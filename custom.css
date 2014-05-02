@@ -1,0 +1,34 @@
+#logo {width:600px;height:159px; margin-left: auto; margin-right: auto;}
+#logo h1 a{display:block;width:600px;height:159px;background: url(images/logo.png) no-repeat;text-indent: -999em;}
+
+@media (min-width: 1200px) {
+    .container{
+        max-width: 800px;
+    }
+}
+
+#icerik {
+	margin-top: 20px;
+}
+
+#nav {
+	margin-top: 30px;
+}
+
+#icerik p {
+	font-size: 13pt;
+	text-align: justify;
+}
+
+#icerik h2, #icerik h3, #icerik h4{
+	font-weight: bold;
+}
+
+#nav {
+	font-weight: bold;
+}
+
+#aciklama {
+	font-style: italic;
+	color: #555555;
+}

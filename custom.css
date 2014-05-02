@@ -7,6 +7,12 @@
     }
 }
 
+@media (min-width: 992px) {
+    .container{
+        max-width: 800px;
+    }
+}
+
 #icerik {
 	margin-top: 20px;
 }
